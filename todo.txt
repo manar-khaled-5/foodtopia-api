@@ -1,0 +1,60 @@
+1-genrate and verfy phone otp 
+2-forget password (take email and send otp - verfy otp - new password)
+3-deploy project
+
+=====================================
+authentaction tasks:-
+
+- verfy phone and email after signup
+-forget password
+    -enter email or phone and send msg with otp
+    - verfy verfy otp
+    - set new password
+- login with google.
+- login with facebook.
+
+
+======================
+database:-
+- favorite list is relation
+- cart is relation
+- intity
+    - user
+    - product
+    - category
+    - review
+    - offers
+    - order
+=========================
+next tasks:- 
+
+- order item in cart 
+- update order status [ cancel - recived]
+- get user all orders
+- get all orders
+
+- add payment gateway
+- data validation
+- upload files in cloud
+- deploy project 
+=========================
+done :-
+= add new item 
+= get item in category
+= get item data
+= add offers
+= get all affers 
+= get offer details
+- delete and update item
+- delete and update offer
+- delete and update Category
+- add item to cart
+- remove item from cart
+- edit item quantity in cart
+- add item to favorite list
+- remove Item from favorite list
+- get all in favorite list
+- get all item in cart
+=========================
+- ضبط الداتا الى راجعه ف الريسبونس
+- data validation اعمل 
